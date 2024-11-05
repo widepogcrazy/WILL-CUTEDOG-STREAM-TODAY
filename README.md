@@ -15,6 +15,8 @@ The base dataset provided includes historical information about CuteDog_’s str
 - **Stream Length**: Average duration of stream. But none was a 24 hour stream Sadge
 - **Games Played**: The games played in recent streams. Do note he usually forgets to change game category
 
+## Do note that many of the features are referring to the information from the LAST STREAM (i.e the row on 2023/11/01 will reference stream information from the last available stream, i.e 2023/10/31). Keep a lookout on the feature names for more info!
+
 ## To add:
 - **Announcement Indicators**: Additional indicators on his discord channel to indicate whether he was "AWAKEGE" or whether he has consumed chicken/pasta.
 
