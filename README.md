@@ -34,12 +34,10 @@ Please format your submission as a CSV file with the following structure:
 Here's the updated template with added details for **Prizes** and **Rules**:
 
 ```
-```csv
-Date,Predicted Streamed
+Date,Stream
 2023-01-01,1
 2023-01-02,0
 2023-01-03,1
-...
 ```
 
 ## Prizes 🏆
