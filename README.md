@@ -23,7 +23,7 @@ The base dataset provided includes historical information about CuteDog_’s str
 You will use these features to create a machine learning model that predicts whether CuteDog_ will stream on a given day.
 
 ## Competition Structure
-1. **Download the Dataset**: Get access to the dataset by [downloading it here](#). Ensure you have the necessary data processing tools installed.
+1. **Download the Dataset**: Get access to the dataset by [downloading it here](https://github.com/widepogcrazy/WILL-CUTEDOG-STREAM-TODAY/blob/main/cutedog_stream_info_train.csv). Ensure you have the necessary data processing tools installed.
 2. **Build Your Model**: Use any machine learning techniques you like—classification models, time-series forecasting, etc.—to predict the target variable, **Stream** (1 = streamed, 0 = no stream).
 3. **Submit Your Predictions**: Submit a CSV file with your predicted results for each day FROM 2024/10/05 TO 2024/11/05 TO DETERMINE THE WINNER
 
