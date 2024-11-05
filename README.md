@@ -66,5 +66,3 @@ cd WILL-CUTEDOG-STREAM-TODAY-
 For any questions, feel free to MESSAGE POGCHAMMP ON DISCORD
 
 Let the competition begin, and may the best predictor win! 🎉
-```
-
