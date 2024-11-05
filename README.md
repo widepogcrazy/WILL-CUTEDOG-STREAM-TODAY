@@ -58,8 +58,8 @@ In addition, all top 10 participants will earn a **CuteDog_ Champion Badge** to 
 ## Getting Started
 To participate, clone this repository and check the data files and starter notebook provided:
 ```bash
-git clone https://github.com/widepogcrazy/WILL-CUTEDOG-STREAM-TODAY-.git
-cd WILL-CUTEDOG-STREAM-TODAY-
+git clone https://github.com/widepogcrazy/WILL-CUTEDOG-STREAM-TODAY.git
+cd WILL-CUTEDOG-STREAM-TODAY
 ```
 
 ## Contact
